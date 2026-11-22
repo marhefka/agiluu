@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dinamikusan generated on 2026.11.22. at 19:22 by All in One SEO v5.0.5.1 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://agiluu.hu/default-sitemap.xsl"?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>AGILUU</title>
+		<link><![CDATA[https://agiluu.hu]]></link>
+		<description><![CDATA[AGILUU]]></description>
+		<lastBuildDate><![CDATA[Mon, 14 Apr 2025 11:56:25 +0000]]></lastBuildDate>
+		<docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+		<atom:link href="https://agiluu.hu/sitemap.rss" rel="self" type="application/rss+xml" />
+		<ttl><![CDATA[60]]></ttl>
+
+		<item>
+			<guid><![CDATA[https://agiluu.hu/team/]]></guid>
+			<link><![CDATA[https://agiluu.hu/team/]]></link>
+			<title>Team+</title>
+			<pubDate><![CDATA[Mon, 14 Apr 2025 11:56:25 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/company/]]></guid>
+			<link><![CDATA[https://agiluu.hu/company/]]></link>
+			<title>Company+</title>
+			<pubDate><![CDATA[Thu, 10 Apr 2025 11:32:22 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/devops/]]></guid>
+			<link><![CDATA[https://agiluu.hu/devops/]]></link>
+			<title>DevOps+</title>
+			<pubDate><![CDATA[Thu, 10 Apr 2025 11:31:13 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/construction/]]></guid>
+			<link><![CDATA[https://agiluu.hu/construction/]]></link>
+			<title>Construction</title>
+			<pubDate><![CDATA[Thu, 10 Apr 2025 11:29:20 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/]]></guid>
+			<link><![CDATA[https://agiluu.hu/]]></link>
+			<title>Szolgáltatásunk</title>
+			<pubDate><![CDATA[Wed, 09 Apr 2025 11:41:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/product/]]></guid>
+			<link><![CDATA[https://agiluu.hu/product/]]></link>
+			<title>Product+</title>
+			<pubDate><![CDATA[Wed, 09 Apr 2025 11:37:08 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/adatvedelmi-tajekoztato/]]></guid>
+			<link><![CDATA[https://agiluu.hu/adatvedelmi-tajekoztato/]]></link>
+			<title>Adatvédelmi tájékoztató</title>
+			<pubDate><![CDATA[Thu, 03 Apr 2025 17:55:31 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/cikkek/]]></guid>
+			<link><![CDATA[https://agiluu.hu/cikkek/]]></link>
+			<title>Szakértői cikkek</title>
+			<pubDate><![CDATA[Thu, 02 Jan 2025 11:02:07 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/?mailpoet_page=captcha]]></guid>
+			<link><![CDATA[https://agiluu.hu/?mailpoet_page=captcha]]></link>
+			<title>MailPoet oldal</title>
+			<pubDate><![CDATA[Wed, 18 Dec 2024 10:44:50 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/podcast/]]></guid>
+			<link><![CDATA[https://agiluu.hu/podcast/]]></link>
+			<title>Podcast</title>
+			<pubDate><![CDATA[Mon, 09 Dec 2024 14:30:19 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/rolunk/]]></guid>
+			<link><![CDATA[https://agiluu.hu/rolunk/]]></link>
+			<title>Rólunk</title>
+			<pubDate><![CDATA[Fri, 06 Dec 2024 12:55:02 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/motivacio-3-0-konyvajanlo/]]></guid>
+			<link><![CDATA[https://agiluu.hu/motivacio-3-0-konyvajanlo/]]></link>
+			<title>Motiváció 3.0 &#8211; könyvajánló</title>
+			<pubDate><![CDATA[Fri, 06 Dec 2024 10:28:18 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/kapcsolat/]]></guid>
+			<link><![CDATA[https://agiluu.hu/kapcsolat/]]></link>
+			<title>Kapcsolat</title>
+			<pubDate><![CDATA[Thu, 14 Nov 2024 16:31:20 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/blog/]]></guid>
+			<link><![CDATA[https://agiluu.hu/blog/]]></link>
+			<title>Korábbi blog</title>
+			<pubDate><![CDATA[Tue, 12 Nov 2024 18:48:32 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/blog/agilis-szervezetek-corporate-rebels/]]></guid>
+			<link><![CDATA[https://agiluu.hu/blog/agilis-szervezetek-corporate-rebels/]]></link>
+			<title>Agilis szervezetek (Corporate Rebels)</title>
+			<pubDate><![CDATA[Fri, 15 Mar 2024 11:01:45 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/blog/agilis-szoftverfejlesztes/]]></guid>
+			<link><![CDATA[https://agiluu.hu/blog/agilis-szoftverfejlesztes/]]></link>
+			<title>Agilis szoftverfejlesztés</title>
+			<pubDate><![CDATA[Fri, 15 Mar 2024 10:17:31 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/a-felreertett-product-owner-tipusok/]]></guid>
+			<link><![CDATA[https://agiluu.hu/a-felreertett-product-owner-tipusok/]]></link>
+			<title>A félreértett Product Owner típusok</title>
+			<pubDate><![CDATA[Thu, 26 Oct 2023 08:15:06 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/a-smart-celok/]]></guid>
+			<link><![CDATA[https://agiluu.hu/a-smart-celok/]]></link>
+			<title>A SMART célok</title>
+			<pubDate><![CDATA[Wed, 14 Dec 2022 09:34:39 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/blog/agilitas-az-it-szektoron-kivul/]]></guid>
+			<link><![CDATA[https://agiluu.hu/blog/agilitas-az-it-szektoron-kivul/]]></link>
+			<title>Agilitás az IT szektoron kívül</title>
+			<pubDate><![CDATA[Mon, 12 Dec 2022 13:21:52 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/kell-egy-csapat/]]></guid>
+			<link><![CDATA[https://agiluu.hu/kell-egy-csapat/]]></link>
+			<title>Kell egy csapat &#8211; könyvajánló</title>
+			<pubDate><![CDATA[Tue, 29 Nov 2022 13:39:33 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/az-elso-agilis-elmenyem-2-resz/]]></guid>
+			<link><![CDATA[https://agiluu.hu/az-elso-agilis-elmenyem-2-resz/]]></link>
+			<title>Az első agilis élményem 2. rész &#8211; A siker mélyebb okai &#8211; a csapat</title>
+			<pubDate><![CDATA[Mon, 21 Nov 2022 11:50:58 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/az-elso-agilis-elmenyem-1-resz/]]></guid>
+			<link><![CDATA[https://agiluu.hu/az-elso-agilis-elmenyem-1-resz/]]></link>
+			<title>Az első agilis élményem &#8211; 1. rész</title>
+			<pubDate><![CDATA[Mon, 21 Nov 2022 11:45:57 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/net-protections-egy-uttoro-szerepet-vallalo-japan-szervezet/]]></guid>
+			<link><![CDATA[https://agiluu.hu/net-protections-egy-uttoro-szerepet-vallalo-japan-szervezet/]]></link>
+			<title>Net Protections, egy úttörő szerepet vállaló japán szervezet</title>
+			<pubDate><![CDATA[Tue, 08 Nov 2022 10:16:57 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/retrospektiv/]]></guid>
+			<link><![CDATA[https://agiluu.hu/retrospektiv/]]></link>
+			<title>Agilis transzformáció? Nem kell túlgondolni, csak szokás kérdése! A retrospektív</title>
+			<pubDate><![CDATA[Tue, 08 Nov 2022 10:15:02 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/scrum-keretrendszer-minden-amit-tudni-akartal-rola/]]></guid>
+			<link><![CDATA[https://agiluu.hu/scrum-keretrendszer-minden-amit-tudni-akartal-rola/]]></link>
+			<title>SCRUM keretrendszer: Minden, amit tudni akartál róla</title>
+			<pubDate><![CDATA[Thu, 08 Sep 2022 10:23:31 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/ilyen-az-agilis-csapat/]]></guid>
+			<link><![CDATA[https://agiluu.hu/ilyen-az-agilis-csapat/]]></link>
+			<title>Ilyen az agilis csapat</title>
+			<pubDate><![CDATA[Thu, 08 Sep 2022 10:21:35 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/release-adas-stresszmentesen/]]></guid>
+			<link><![CDATA[https://agiluu.hu/release-adas-stresszmentesen/]]></link>
+			<title>Release-adás stresszmentesen</title>
+			<pubDate><![CDATA[Thu, 08 Sep 2022 09:05:06 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/szolgaltatasunk/]]></guid>
+			<link><![CDATA[https://agiluu.hu/szolgaltatasunk/]]></link>
+			<title>Szolgáltatásunk</title>
+			<pubDate><![CDATA[Wed, 07 Sep 2022 09:44:29 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/a-multifunkcionalis-fejleszto/]]></guid>
+			<link><![CDATA[https://agiluu.hu/a-multifunkcionalis-fejleszto/]]></link>
+			<title>A multifunkcionális fejlesztő</title>
+			<pubDate><![CDATA[Tue, 06 Sep 2022 06:06:49 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/onszervezodo-csapatok-3/]]></guid>
+			<link><![CDATA[https://agiluu.hu/onszervezodo-csapatok-3/]]></link>
+			<title>Önszerveződő csapatok (3. rész): A változás folyamata</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:20:47 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/onszervezodo-csapatok-4/]]></guid>
+			<link><![CDATA[https://agiluu.hu/onszervezodo-csapatok-4/]]></link>
+			<title>Önszerveződő csapatok (4. rész): Önszerveződő csapatok mikroszinten</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:20:34 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/favi-tortenete-01/]]></guid>
+			<link><![CDATA[https://agiluu.hu/favi-tortenete-01/]]></link>
+			<title>A FAVI története: Hogyan bontotta le Zobrist a FAVI command-and-control struktúráit?</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:20:26 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/favi-tortenete-02/]]></guid>
+			<link><![CDATA[https://agiluu.hu/favi-tortenete-02/]]></link>
+			<title>FAVI (2. rész): A gyári munkások nagyobb fokú döntési szabadsága miért hozott hatalmas sikert?</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:20:08 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/buurtzorg/]]></guid>
+			<link><![CDATA[https://agiluu.hu/buurtzorg/]]></link>
+			<title>14 000 munkavállaló, 0 menedzser: így is lehet betegellátást csinálni</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:20:00 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/se-fonokok-se-titulusok-se-szervezeti-hierarchia-a-morning-star-sikertortenete/]]></guid>
+			<link><![CDATA[https://agiluu.hu/se-fonokok-se-titulusok-se-szervezeti-hierarchia-a-morning-star-sikertortenete/]]></link>
+			<title>Se főnökök, se titulusok, se szervezeti hierarchia: a Morning Star sikertörténete</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:52 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/magasztos-cel-hitelesseg-ez-is-agilis-szervezet/]]></guid>
+			<link><![CDATA[https://agiluu.hu/magasztos-cel-hitelesseg-ez-is-agilis-szervezet/]]></link>
+			<title>Magasztos cél + hitelesség: ez is agilis szervezet</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:40 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/onmenedzseles-a-kormanyzati-szektorban-itt-is-lehetseges/]]></guid>
+			<link><![CDATA[https://agiluu.hu/onmenedzseles-a-kormanyzati-szektorban-itt-is-lehetseges/]]></link>
+			<title>Önmenedzselés a kormányzati szektorban: itt is lehetséges</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:30 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/a-brusszeli-burokrata-lebontja-a-command-and-control-strukturat/]]></guid>
+			<link><![CDATA[https://agiluu.hu/a-brusszeli-burokrata-lebontja-a-command-and-control-strukturat/]]></link>
+			<title>A brüsszeli bürokrata lebontja a command-and-control struktúrát</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:22 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/centigo-igy-epits-egy-meno-onmagat-menedzselo-tanacsadoceget/]]></guid>
+			<link><![CDATA[https://agiluu.hu/centigo-igy-epits-egy-meno-onmagat-menedzselo-tanacsadoceget/]]></link>
+			<title>Centigo: így építs egy menő, önmagát menedzselő tanácsadócéget!</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:12 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/az-emberek-az-elsok-egy-vilagmeretu-forradalom-kezdete/]]></guid>
+			<link><![CDATA[https://agiluu.hu/az-emberek-az-elsok-egy-vilagmeretu-forradalom-kezdete/]]></link>
+			<title>„Az emberek az elsők” – egy világméretű forradalom kezdete</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:19:03 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/profithajhaszas-helyett-egy-magasabb-cel-a-leginspiralobb-cegek-elso-szamu-titka/]]></guid>
+			<link><![CDATA[https://agiluu.hu/profithajhaszas-helyett-egy-magasabb-cel-a-leginspiralobb-cegek-elso-szamu-titka/]]></link>
+			<title>Profithajhászás helyett magasabbrendű cél: a leginspirálóbb cégek első számú titka</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:18:55 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/a-hierarchiapiramis-lebontasa-es-hatekony-csapathalozat-kiepitese/]]></guid>
+			<link><![CDATA[https://agiluu.hu/a-hierarchiapiramis-lebontasa-es-hatekony-csapathalozat-kiepitese/]]></link>
+			<title>A hierarchiapiramis lebontása és hatékony csapathálózat kiépítése</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:18:42 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/continuous-delivery-1/]]></guid>
+			<link><![CDATA[https://agiluu.hu/continuous-delivery-1/]]></link>
+			<title>Continuous Delivery (1. rész) &#8211; Miért?</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:18:25 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/continuous-delivery-2/]]></guid>
+			<link><![CDATA[https://agiluu.hu/continuous-delivery-2/]]></link>
+			<title>Continuous Delivery (2. rész) &#8211; Devops és Scrum</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:18:14 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/utmutato-hogyan-coacholnak-a-coach-tipusu-vezetok/]]></guid>
+			<link><![CDATA[https://agiluu.hu/utmutato-hogyan-coacholnak-a-coach-tipusu-vezetok/]]></link>
+			<title>Útmutató: Hogyan coacholnak a coach típusú vezetők?</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:17:58 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/miert-fontos-a-daily-standup-4-fo-kifogas-megoldassal/]]></guid>
+			<link><![CDATA[https://agiluu.hu/miert-fontos-a-daily-standup-4-fo-kifogas-megoldassal/]]></link>
+			<title>Miért fontos a daily standup? 4 fő kifogás, megoldással</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:17:47 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/az-it-erosebb-mint-az-uzlet/]]></guid>
+			<link><![CDATA[https://agiluu.hu/az-it-erosebb-mint-az-uzlet/]]></link>
+			<title>Az IT erősebb, mint az üzlet?</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:17:05 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/continuous-integration-01/]]></guid>
+			<link><![CDATA[https://agiluu.hu/continuous-integration-01/]]></link>
+			<title>Continuous integration (1. rész) &#8211; az agilis szoftverfejlesztés alapja</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:16:42 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/continuous-integration-02/]]></guid>
+			<link><![CDATA[https://agiluu.hu/continuous-integration-02/]]></link>
+			<title>Continuous integration (2.rész) &#8211; a hogyanok</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 15:16:33 +0000]]></pubDate>
+		</item>
+					<item>
+			<guid><![CDATA[https://agiluu.hu/jobol-kivalo-konyvajanlo/]]></guid>
+			<link><![CDATA[https://agiluu.hu/jobol-kivalo-konyvajanlo/]]></link>
+			<title>Jóból kiváló &#8211; könyvajánló</title>
+			<pubDate><![CDATA[Mon, 01 Aug 2022 12:06:49 +0000]]></pubDate>
+		</item>
+				</channel>
+</rss>
